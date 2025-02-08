@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-MD-V5",
+  "name": "MR_SAJÓØ",
   "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
-  "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
+  "logo": "https://files.catbox.moe/hfdqou.jpg",
   "keywords": ["Mʀ✰Sʜᴀʙᴀɴ"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "MR SAJÓØ"
     }, 
       
     "PREFIX": {
@@ -80,20 +80,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "MR SAJÓØ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "923267815071"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "MR SAJÓØ_MD"
 
       }, 
 
@@ -126,20 +126,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "MR_SAJØØ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "923267815071"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "MR SAJÓØ_MD"
 
       }, 
 
@@ -159,7 +159,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sʜᴀʙᴀɴ*"
+      "value": "*©一 Sʜʌʜzʌdλ Ɩŋsɩɗɘ ཐི༏ཋྀ*"
     },
 
       "DELETE_LINKS": {
@@ -196,7 +196,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "🥵,🔥,🥴,💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
     "ANTI_DEL_PATH": {
