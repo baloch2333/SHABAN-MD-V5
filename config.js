@@ -17,25 +17,25 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "SHABAN-MD-V5",
+BOT_NAME: process.env.BOT_NAME || "MR_SAJØØ",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD-V5",
+STICKER_NAME: process.env.STICKER_NAME || "MR SAJÓØ",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🥵,🔥,🥴,💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923059395959",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923267815071",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Mʀ✰Sʜᴀʙᴀɴ",
+OWNER_NAME: process.env.OWNER_NAME || "MR SAJÓØ",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sʜᴀʙᴀɴ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© 一 Sʜʌʜzʌdλ Ɩŋsɩɗɘ ཐི༏ཋྀ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/sgxywmW/shaban-sobx-md.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/hfdqou.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *一 Sʜʌʜzʌdλ Ɩŋsɩɗɘ ཐི༏ཋྀ*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -61,7 +61,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923059395959",
+DEV: process.env.DEV || "93267815071",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
